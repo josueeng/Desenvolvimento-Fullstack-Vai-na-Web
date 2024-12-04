@@ -13,7 +13,7 @@ export default function Doar() {
       <Header />
       <div className={D.ContPrin}>
         <p className={D.TextPrin}>
-          Por favor, preencha o formulário com suas informações e as informações
+          Por favor, Preencha o formulário com suas informações e as informações
           do Livro
         </p>
         <div className={D.FormLivros}>
